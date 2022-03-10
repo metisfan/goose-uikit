@@ -103,7 +103,7 @@ export const links = [
       },
       {
         label: "Docs",
-        href: "https://goosedefi.gitbook.io/goose-finance/",
+        href: "https://gitbook.animeswapdefi.com/",
       },
       {
         label: "Blog",
@@ -120,7 +120,7 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/goosedefi",
+        href: "https://t.me/animeswapfinance",
       },
       // {
       //   label: "Bahasa Indonesia",
@@ -175,7 +175,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/goosedefi",
+    href: "https://twitter.com/AnimeSwapFTM",
   },
   {
     label: "Reddit",

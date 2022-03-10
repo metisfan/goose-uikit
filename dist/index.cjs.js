@@ -2228,7 +2228,7 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/goosedefi",
+                href: "https://t.me/animeswapfinance",
             },
             // {
             //   label: "Bahasa Indonesia",
@@ -2283,7 +2283,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/goosedefi",
+        href: "https://twitter.com/AnimeSwapFTM",
     },
     {
         label: "Reddit",
