@@ -2215,7 +2215,7 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/animeswapfinance",
+                href: "https://t.me/shinyavax",
             },
             // {
             //   label: "Bahasa Indonesia",
@@ -2270,7 +2270,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/AnimeSwapFTM",
+        href: "https://twitter.com/AvaxShiny",
     },
     // {
     //     label: "Reddit",

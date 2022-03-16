@@ -103,7 +103,7 @@ export const links = [
       },
       {
         label: "Docs",
-        href: "https://gitbook.animeswapdefi.com/",
+        href: "",
       },
       {
         label: "Blog",
@@ -120,7 +120,7 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/animeswapfinance",
+        href: "https://t.me/shinyavax",
       },
       // {
       //   label: "Bahasa Indonesia",
@@ -128,7 +128,7 @@ export const socials = [
       // },
       {
         label: "中文",
-        href: "https://t.me/goosefinancechinese",
+        href: "https://t.me/shinyavax",
       },
       // {
       //   label: "Tiếng Việt",
@@ -175,7 +175,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/AnimeSwapFTM",
+    href: "https://twitter.com/AvaxShiny",
   },
   {
     label: "Reddit",
