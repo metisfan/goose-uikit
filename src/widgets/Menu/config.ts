@@ -103,7 +103,7 @@ export const links = [
       },
       {
         label: "Docs",
-        href: "",
+        href: "https://gitbook.rickandmortydefi.finance/rickandmortydefi.finance/new-apr-boosting-feature",
       },
       {
         label: "Blog",
