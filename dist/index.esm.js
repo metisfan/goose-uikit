@@ -2215,7 +2215,7 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/shinyavax",
+                href: "https://t.me/rickandmortydefi",
             },
             // {
             //   label: "Bahasa Indonesia",
@@ -2270,7 +2270,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/AvaxShiny",
+        href: "https://twitter.com/RickAndMortyFin",
     },
     // {
     //     label: "Reddit",
