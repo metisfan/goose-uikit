@@ -120,7 +120,7 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/shinyavax",
+        href: "https://t.me/rickandmortydefi",
       },
       // {
       //   label: "Bahasa Indonesia",
@@ -128,7 +128,7 @@ export const socials = [
       // },
       {
         label: "中文",
-        href: "https://t.me/shinyavax",
+        href: "https://t.me/rickandmortydefi",
       },
       // {
       //   label: "Tiếng Việt",
@@ -175,7 +175,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/AvaxShiny",
+    href: "https://twitter.com/RickAndMortyFin",
   },
   {
     label: "Reddit",
