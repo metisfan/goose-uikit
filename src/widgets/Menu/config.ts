@@ -103,7 +103,7 @@ export const links = [
       },
       {
         label: "Docs",
-        href: "https://gitbook.rickandmortydefi.finance/rickandmortydefi.finance/new-apr-boosting-feature",
+        href: " ",
       },
       {
         label: "Blog",
@@ -120,7 +120,7 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/rickandmortydefi",
+        href: "https://t.me/yieldboosterfinance",
       },
       // {
       //   label: "Bahasa Indonesia",
@@ -128,7 +128,7 @@ export const socials = [
       // },
       {
         label: "中文",
-        href: "https://t.me/rickandmortydefi",
+        href: "https://t.me/yieldboosterfinance",
       },
       // {
       //   label: "Tiếng Việt",
@@ -175,7 +175,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/RickAndMortyFin",
+    href: "https://twitter.com/yieldboosterfin",
   },
   {
     label: "Reddit",
