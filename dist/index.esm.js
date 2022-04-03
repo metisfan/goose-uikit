@@ -2215,7 +2215,7 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/rickandmortydefi",
+                href: "https://t.me/yieldboosterfinance",
             },
             // {
             //   label: "Bahasa Indonesia",
@@ -2270,7 +2270,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/RickAndMortyFin",
+        href: "https://twitter.com/yieldboosterfin",
     },
     // {
     //     label: "Reddit",
